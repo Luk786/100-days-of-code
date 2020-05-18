@@ -5,20 +5,19 @@ The log of my #100DaysOfCode challenge. Started on May 13, 2020.
 Day 0: May 13, 2020
 Today's Progress: Build a Personal Portfolio Webpage
 
-Thoughts: - Enter thoughts
+Thoughts: - I struggle with flex box a little bit, but I got it as I work through to the end of the layout. 
 
-Link to work: Calculator App
+Link to work: 
 
-Day 0: February 30, 2016 (Example 2)
-(delete me or comment me out)
-Today's Progress: Fixed CSS, worked on canvas functionality for the app.
+Day 0: May 17, Sunday
+#Today's Progress: Worked on Rithm school Race car exercise. 
 
-Thoughts: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Thoughts: I really struggled how to move the car along the screen, but it was margin and some functionality using window.innerWidth property. It was fun to look at the solution code and understand what it is doing. 
 
-Link(s) to work: Calculator App
+Link(s) to work: 
 
-Day 1: June 27, Monday
-#Today's Progress: I've gone through many exercises on FreeCodeCamp.
+Day 1: May 18, Monday
+#Today's Progress: I completed LogoMaker app using vanilla JS. 
 
 #Thoughts I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts #and hours spent.
 
